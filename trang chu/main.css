@@ -1,0 +1,20 @@
+
+.container{
+    display: flex;
+    width: 0px;
+    max-width: auto;
+}
+.container-fluid{
+    display: flex;
+    margin: 10px;
+    width: 0px;
+    max-width: auto;
+    text-align: center;
+    font-size: larger;
+
+}
+
+.navbarNav{
+
+    color: black;
+}
